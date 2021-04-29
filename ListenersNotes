@@ -1,0 +1,12 @@
+
+Below are the dependencies needed
++++++++++++++++++++++++++++++++++
+
+Selenium Java
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+
+Commans.io
+https://mvnrepository.com/artifact/commons-io/commons-io
+
+TestNG Lib
+Project > Properties > Java Build Path > Add Libs > TestNG
